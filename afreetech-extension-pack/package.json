@@ -1,0 +1,43 @@
+{
+  "name": "afreetech-extension-pack",
+  "displayName": "AfreeTech Extension Pack",
+  "description": "Boost your productivity with essential VS Code extensions from Afreetech.",
+  "version": "0.0.1",
+  "publisher": "your user id",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+   
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "sdras.vue-vscode-snippets",
+      "dsznajder.es7-react-js-snippets",
+      "jawandarajbir.react-vscode-extension-pack",
+      "bradlc.vscode-tailwindcss",
+      "csstools.postcss",
+      "waderyan.nodejs-extension-pack",
+      "christian-kohler.npm-intellisense",
+      "ms-python.python",
+      "mongodb.mongodb-vscode",
+      "bmewburn.vscode-intelephense-client",
+      "ecmel.vscode-html-css",
+      "ritwickdey.LiveServer",
+      "eamodio.gitlens",
+      "msjsdiag.debugger-for-chrome",
+      "christian-kohler.path-intellisense"
+    
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellingtonmwadali/afreetech_vs/afreetech-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/wellingtonmwadali/afreetech_vs/issues"
+  },
+  "homepage": "https://github.com/wellingtonmwadali/afreetech_vs#README"
+ 
+}
